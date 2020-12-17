@@ -1,0 +1,1 @@
+![Progress bar](img/progress.gif)
